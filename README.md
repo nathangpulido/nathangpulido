@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá! 👋 Me chamo Nathan Gomes
 
-<!--
-**nathangpulido/nathangpulido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de engenharia de software, cursando desenvolvimento front end pelo SENAI e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que uso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+## 📊 Estatísticas do GitHub
+
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathangpulido&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathangpulido&layout=compact&theme=tokyonight)
+
+## 💬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nathan-pulido-634061274/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/decifrandobits/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:nathang.pulido98@outlook.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
